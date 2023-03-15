@@ -170,6 +170,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills.
+- [Explore kandi kits](https://kandi.openweaver.com/explore) : A Collection of project ideas which can be used to Develop, implement, customize, Custom Functions and Applications thereby improve coding skills.​
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
